@@ -1,8 +1,6 @@
-
-
 ---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is Amit Learn Slide.
 Use the left arrow to go back!
